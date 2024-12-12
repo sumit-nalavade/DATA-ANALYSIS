@@ -5,8 +5,11 @@ This repository is dedicated to data analysis projects that I will be working on
 
 ## Table of Contents
 Purpose
+
 Tools and Libraries
+
 Getting Started
+
 Contributing
 
 ## Purpose
