@@ -1,4 +1,4 @@
-#### Data Analysis Repository
+## Data Analysis Repository
 
 ## Description
 This repository is dedicated to data analysis projects that I will be working on. The focus will be on data cleaning, exploration, visualization, and analysis. The goal is to develop a set of projects that showcase various aspects of data analysis using Python and relevant libraries.
@@ -28,10 +28,3 @@ Clone the repository using git clone <repository-url>.
 Open the repository in your favorite code editor or Jupyter Notebook.
 Start exploring and developing data analysis projects.
 
-## Contributing
-If you would like to contribute to this repository:
-Fork the repository.
-Create a new branch (git checkout -b new-project).
-Make your changes and commit them (git commit -am 'Add new project').
-Push to the branch (git push origin new-project).
-Open a pull request.
