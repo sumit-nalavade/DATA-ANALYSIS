@@ -10,7 +10,6 @@ Tools and Libraries
 
 Getting Started
 
-Contributing
 
 ## Purpose
 This repository will serve as a collection of data analysis projects and notebooks that demonstrate the process of data analysis. Each project will involve working with different datasets and using various techniques to gain insights and visualize data.
